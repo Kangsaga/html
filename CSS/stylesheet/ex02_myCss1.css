@@ -1,0 +1,39 @@
+div {
+  width: 100px;
+  height: 100px;
+}
+#red {
+  background-color: red;
+  border-top-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+}
+#green {
+  background-color: green;
+
+  position: relative;
+  top: 0px;
+  left: 100px;
+
+  border-top-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+}
+#blue {
+  background-color: blue;
+
+  position: relative;
+  top: 0px;
+  left: 200px;
+
+  border-top-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+}
+#gray {
+  background-color: gray;
+
+  position: relative;
+  top: 0px;
+  left: 300px;
+
+  border-top-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+}
